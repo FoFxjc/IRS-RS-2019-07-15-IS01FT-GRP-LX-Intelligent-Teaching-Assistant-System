@@ -31,8 +31,8 @@ In this project, our team applied the knowledge and techniques acquired from the
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
-| LI XINLIN | A0198535N | Knowledge Modelling,OptaPlanner Solver Development,Backend Development,Documentation,Video| e0402076@u.nus.edu |
-| XU JIACHEN | A0198491M | Application Architect,Frontend Development,Backend Development,Documentation,Video| e0402032@u.nus.edu |
+| LI XINLIN | A0198535N | Knowledge Modelling, OptaPlanner Solver Development, Backend Development, Documentation, Video| e0402076@u.nus.edu |
+| XU JIACHEN | A0198491M | Application Architect, Frontend Development, Backend Development, Documentation, Video| e0402032@u.nus.edu |
 
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
