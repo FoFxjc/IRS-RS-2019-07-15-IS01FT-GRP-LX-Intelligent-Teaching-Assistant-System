@@ -40,13 +40,14 @@ In this project, our team applied the knowledge and techniques acquired from the
 
 ---
 ## SECTION 5 : USER GUIDE
-
-`<Github File Link>` : 
-
+### Deployment User Guide
+`<Github File Link>` : https://github.com/FoFxjc/IRS-RS-2019-07-15-IS01FT-GRP-LX-Intelligent-Teaching-Assistant-System/blob/master/UserGuide/MRS_ITAS_User_Guide(Deployment).pdf
+### Application User Guide
+`<Github File Link>` : https://github.com/FoFxjc/IRS-RS-2019-07-15-IS01FT-GRP-LX-Intelligent-Teaching-Assistant-System/blob/master/UserGuide/MRS_ITAS_User_Guide(Application).pdf
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`<Github File Link>` : 
+`<Github File Link>` : https://github.com/FoFxjc/IRS-RS-2019-07-15-IS01FT-GRP-LX-Intelligent-Teaching-Assistant-System/blob/master/ProjectReport/MRS_ITAS_Report.pdf
 
 **Recommended Sections for Project Report / Paper:**
 - Executive Summary
