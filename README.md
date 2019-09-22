@@ -36,7 +36,7 @@ In this project, our team applied the knowledge and techniques acquired from the
 
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
-[![Watch the video]()]()
+[![Watch the video]()](https://youtu.be/bBCQn5DqaSA)
 
 ---
 ## SECTION 5 : USER GUIDE
